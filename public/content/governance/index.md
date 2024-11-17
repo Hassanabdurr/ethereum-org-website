@@ -1,6 +1,6 @@
 ---
 title: Ethereum Governance
-description: An introduction to how decisions about Ethereum are made.
+description: An introductionu to how decisions about Ethereum are made.
 lang: en
 ---
 
